@@ -1,0 +1,61 @@
+{
+  "top.niqiu.settings.unittime": "单位时间",
+  "top.niqiu.settings.unitlength": "单位长度",
+
+  "top.niqiu.datawindow.display": "显示",
+  "top.niqiu.datawindow.display.dataline": "数据图像",
+  "top.niqiu.datawindow.display.time": "  当前时间是: %f s",
+  "top.niqiu.datawindow.display.data": "  在当前时间的数据:%f",
+  "top.niqiu.datawindow.display.line": "数据显示",
+
+  "top.niqiu.datawindow.setting": "设置",
+  "top.niqiu.datawindow.setting.displaylength": "显示数据数量",
+
+  "top.niqiu.scenario.title": "场景",
+  "top.niqiu.scenario.setting.unitTime": "单位时间",
+
+  "top.niqiu.scenario.type.earth": "地球环境",
+  "top.niqiu.scenario.type.earth.description": "地球环境, 物体默认都会受到竖直向下的重力加速度",
+  "top.niqiu.scenario.type.space": "太空环境",
+  "top.niqiu.scenario.type.space.description": "太空环境, 物体默认会受到两两之间的引力",
+  "top.niqiu.scenario.type.empty": "空",
+  "top.niqiu.scenario.type.empty.description": "空环境, 无引力或重力",
+
+  "top.niqiu.scenario.status.object": "添加物体",
+
+  "top.niqiu.scenario.add_object.normal": "质点",
+
+  "top.niqiu.scenario.values.charge": "电荷量",
+  "top.niqiu.scenario.values.charge.description": "----",
+
+  "top.niqiu.scenario.values.mass": "质量",
+  "top.niqiu.scenario.values.mass.description": "----",
+
+  "top.niqiu.scenario.values.velocityX": "x轴上的速度",
+  "top.niqiu.scenario.values.velocityX.description": "----",
+
+  "top.niqiu.scenario.values.velocityY": "y轴上的速度",
+  "top.niqiu.scenario.values.velocityY.description": "----",
+
+  "top.niqiu.scenario.values.posX": "x轴上的位置",
+  "top.niqiu.scenario.values.posX.description": "----",
+
+  "top.niqiu.scenario.values.posY": "y轴上的位置",
+  "top.niqiu.scenario.values.posY.description": "----",
+
+
+
+
+
+  "yop.niqiu.scenario.values.unit_time": "单位时间",
+  "yop.niqiu.scenario.values.unit_time.description": "----",
+  "top.niqiu.scenario.values.gravitational_acceleration": "重力加速度",
+  "top.niqiu.scenario.values.gravitational_acceleration.description": "(地球环境使用)重力加速度是一个物体仅受重力作用的情况下所具有的加速度。",
+  "top.niqiu.scenario.values.gravitational_constant": "万有引力常数",
+  "top.niqiu.scenario.values.gravitational_constant.description": "(太空环境适用)万有引力常数（记作G），是一个包含在对有质量的物体间的万有引力的计算中的实验物理常数。它出现在牛顿的万有引力定律和爱因斯坦的广义相对论中。也称作重力常数或牛顿常数。",
+  "top.niqiu.scenario.values.light_speed": "光速",
+  "top.niqiu.scenario.values.light_speed.description": "光速，指光在真空中的速率，是一个物理常数，一般记作c。这一数值之所以是精确值，是因为米的定义本身就是基于光速和国际时间标准的，任何对光速更精确的测定，都不会改变光速的精确值，相反地，将会使得人们对一米的定义更为精确。",
+  "top.niqiu.scenario.values.coulomb_constant": "库仑常数",
+  "top.niqiu.scenario.values.coulomb_constant.description": "库仑常数是出现在库仑定律和相关公式中的比例因子。"
+
+}
